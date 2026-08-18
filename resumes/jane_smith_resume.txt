@@ -1,0 +1,21 @@
+
+        JANE SMITH
+        jane.smith@email.com | (555) 987-6543
+        
+        PROFESSIONAL SUMMARY
+        Data Scientist with 6 years of experience in analytics and machine learning.
+        Proficient in Python, R, SQL, and data visualization tools.
+        
+        TECHNICAL SKILLS
+        Python, R, SQL, Tableau, Power BI, Pandas, Scikit-learn, Deep Learning, AWS
+    
+        WORK EXPERIENCE
+        Senior Data Scientist | AnalyticsPro | 2019-Present
+        - Built predictive models for customer churn
+        - Created dashboards using Tableau and Power BI
+        - Implemented ETL pipelines using Python and SQL
+        
+        EDUCATION
+        Master of Science in Data Science, UC Berkeley, 2019
+        Bachelor of Science in Statistics, UCLA, 2017
+        

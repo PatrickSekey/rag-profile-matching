@@ -1,0 +1,31 @@
+
+    JOHN DOE
+    john.doe@email.com | (555) 123-4567
+    
+    PROFESSIONAL SUMMARY
+    Senior Machine Learning Engineer with 8 years of experience in building and deploying ML solutions. 
+    Expert in Python, deep learning, and NLP applications.
+    
+    TECHNICAL SKILLS
+    Python, TensorFlow, PyTorch, Scikit-learn, NLP, Computer Vision, AWS, Docker, Kubernetes, SQL, Git
+    
+    WORK EXPERIENCE
+    
+    Senior ML Engineer | TechCorp Inc. | 2020-Present
+    - Led development of NLP models for document processing
+    - Implemented ML pipelines using TensorFlow and PyTorch
+    - Deployed models on AWS using Docker and Kubernetes
+    
+    ML Engineer | DataFlow Systems | 2018-2020
+    - Developed computer vision solutions for quality control
+    - Implemented CI/CD pipelines for ML models
+    - Built data processing pipelines using Python and SQL
+    
+    EDUCATION
+    Master of Science in Computer Science, Stanford University, 2018
+    Bachelor of Science in Computer Science, MIT, 2016
+    
+    CERTIFICATIONS
+    AWS Certified Machine Learning Specialist
+    TensorFlow Developer Certificate
+    
