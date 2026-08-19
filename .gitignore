@@ -1,51 +1,10 @@
-
-# Python
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-.Python
-*.so
-*.egg
-*.egg-info/
-dist/
-build/
-
-# Virtual Environment
-venv/
-env/
-ENV/
-.venv
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# ChromaDB (vector database)
 chroma_db/
-
-# Metadata (extracted resume data)
 metadata/
-
-# Output files (results)
 output/
-
-# Google Drive specific
 .drive/
-
-# Jupyter Notebooks
 .ipynb_checkpoints/
-*.ipynb
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# Logs
 *.log
-
-# Temporary files
 *.tmp
-*.temp
+.DS_Store
