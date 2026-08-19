@@ -16,16 +16,6 @@ pip install pymupdf python-docx sentence-transformers chromadb
 python main.py
 ```
 
-## Performance Metrics
 
-| Metric | Score |
-|--------|-------|
-| Precision@k | 0.67 |
-| Recall@k | 0.50 |
-| MRR | 0.58 |
-| Avg Latency | 0.83s |
 
-## Author
-Patrick Wah Sekey
-- GitHub: https://github.com/PatrickSekey
-- Email: patrick.sekey.ps@gmail.com
+
